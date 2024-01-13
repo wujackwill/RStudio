@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Rstudio</h2>
+    <h2 align="center">Rosé Pine for RStudio</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,12 +13,12 @@
 
 ## Usage
 
-[How to add custom theme in Rstudio](https://posit.co/blog/rstudio-ide-custom-theme-support/)
+[How to add custom theme in RStudio](https://posit.co/blog/rstudio-ide-custom-theme-support/)
 
 
 ## Gallery
 
-![Rosé Pine with Rsutdio](./pics/screenshot.png)
+![Rosé Pine with RStudio](./pics/screenshot.png)
 
 ## Thanks to
 
