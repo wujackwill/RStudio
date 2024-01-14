@@ -13,13 +13,18 @@
 
 ## Usage
 
-[How to add custom theme in RStudio](https://posit.co/blog/rstudio-ide-custom-theme-support/)
+* Navigate to Tools → Global Options...
+* In Appearance, add your downloaded theme files
+* Select your preferred variant
+
+
 
 
 ## Gallery
 
-![Rosé Pine with RStudio](./pics/screenshot.png)
+![Rosé Pine with RStudio](https://jackwill.oss-cn-shanghai.aliyuncs.com/screenshot.png)
 
 ## Thanks to
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+- [Jack Will](https://github.com/wujackwill)
